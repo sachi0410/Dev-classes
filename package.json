@@ -1,0 +1,22 @@
+{
+  "name": "dev-classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachi0410/Dev-classes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachi0410/Dev-classes/issues"
+  },
+  "homepage": "https://github.com/sachi0410/Dev-classes#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6"
+  }
+}
